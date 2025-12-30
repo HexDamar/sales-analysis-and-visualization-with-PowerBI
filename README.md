@@ -100,11 +100,12 @@ This page focuses on sales patterns, quarterly performance, and year-over-year g
 
 ---
 
-## 👤 Credits & Contact
+## 📚 References
+- Dataset: [Adidas Sales Dataset](https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset)
 
-- Contains data from TomTom (2025) and Microsoft Corporation (2023).
-- For questions or further access, please contact the relevant data analysis team.
+## ✨ Contributors
+[Nugroho Wicaksono](https://github.com/HexDamar/sales-analysis-and-visualization-with-PowerBI) - Data Analyst
 
 ---
 
-Thank you for using this analytics dashboard. We hope the insights provided support informed decision-making.
+🔹 *Last Updated: December 2025*  
